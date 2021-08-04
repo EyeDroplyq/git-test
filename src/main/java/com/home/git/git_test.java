@@ -7,5 +7,6 @@ public class git_test {
         System.out.println("master test");
         System.out.println("dev");
         System.out.println("dev test");
+        System.out.println("github test");
     }
 }
